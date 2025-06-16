@@ -56,7 +56,7 @@ A simple but functional security system that accepts numeric password input via 
 ## ▶️ Simulation (Wokwi)
 
 Try this project in your browser with Wokwi:  
-🔗 [Click to Simulate]([https://wokwi.com/projects/433540660767403009]) *(replace with actual link)*
+🔗 [Click to Simulate](https://wokwi.com/projects/433540660767403009) *(replace with actual link)*
 
 ---
 
