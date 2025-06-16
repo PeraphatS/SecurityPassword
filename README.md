@@ -44,7 +44,7 @@ A simple but functional security system that accepts numeric password input via 
 2. Input is shown in real-time on OLED.
 3. Press `#` to check password.
    - If correct → show “✅ Access Granted”, beep once.
-   - If incorrect → show “❌ Access Denied”, double beep.
+   - If incorrect → show “❌ Access Denied”, beep once.
 4. Press `*` to clear current input.
 5. After 3 incorrect attempts, system locks and shows “🔒 Locked Out!”
 
